@@ -1,6 +1,6 @@
 # 🌍 Buscador de Países - Aplicación Vue.js
 
-🚀 **Demo**: [https://ricardocolima.github.io/buscadorpaises/](Ver Demo)
+🚀 **Demo**: https://ricardocolima.github.io/buscadorpaises/
 
 
 ## 📋 Descripción del Proyecto
